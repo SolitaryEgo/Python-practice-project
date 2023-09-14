@@ -1,5 +1,4 @@
-# Python practice project
-Python练习题目
+# Python练习题目
 
 -银行存取款练习项目
 
